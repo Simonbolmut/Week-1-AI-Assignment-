@@ -1,0 +1,36 @@
+
+AI Introduction Assignment
+Description
+
+
+
+1. What is the main purpose of the cryptocurrency advisor chatbot you are building?
+The main purpose of my cryptocurrency advisor chatbot is to provide users with helpful, real-time insights and guidance about cryptocurrencies. It acts as a financial sidekick that can answer questions, explain crypto concepts, give market updates, and even offer risk tips to beginners. My goal is to make crypto more accessible and less intimidating for people new to investing.
+
+2. Who is the target audience for your chatbot?
+The target audience for my chatbot is mainly beginner to intermediate cryptocurrency enthusiasts. These are people who are curious about crypto, might be looking to start investing, or already have some coins and want to make smarter decisions. I focused on building a bot that’s user-friendly and doesn’t overwhelm users with technical jargon.
+
+3. What platforms or tools did you explore or plan to use to build your chatbot (e.g., Python, Dialogflow, ChatGPT API, etc.)?
+For this project, I explored using ChatGPT API because of its natural language capabilities and how easily it can be integrated into a web or mobile interface. I also considered using Python with Flask to build the backend and connect it to a messaging platform like Telegram or a web-based chat UI. These tools allow flexibility and scalability for future improvements.
+
+4. What features do you plan to include in your chatbot to make it useful and engaging?
+Some of the key features I plan to include are:
+
+Real-time price updates for popular cryptocurrencies
+
+Beginner-friendly explanations of crypto terms
+
+Risk warnings and investment tips
+
+Personalized recommendations based on user goals
+
+A clean, conversational interface that keeps things simple and fun
+
+I want the chatbot to feel like a friendly financial buddy—not just a robot spitting facts.
+
+5. How do you plan to ensure the chatbot provides accurate and reliable financial information?
+To ensure accuracy, I plan to use trusted APIs like CoinGecko or CoinMarketCap for real-time data. I’ll also make sure that the information shared by the chatbot is sourced from well-known crypto educational platforms. On top of that, I’ll add disclaimers to remind users that the bot doesn’t give financial advice, but rather general insights they can use to guide their own research.
+
+6. What challenges do you anticipate while building this chatbot, and how do you plan to address them?
+One of the main challenges I anticipate is keeping the bot’s responses both accurate and understandable, especially when explaining complex crypto concepts. To tackle that, I plan to test the chatbot thoroughly with feedback from users and fine-tune the responses. Another challenge is integrating real-time data smoothly, which I’ll solve by working with reliable APIs and handling errors gracefully.
+
